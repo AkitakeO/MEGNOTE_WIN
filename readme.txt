@@ -2,7 +2,7 @@ hecmeg Executable
 
 1. Prerequisites for Deployment 
 
-Verify that MATLAB Runtime(R2022b) is installed.
+Verify that MATLAB Runtime R2022b is installed for hecmeg1.05_win64.exe or R2024b for hecmeg1.10_win64.exe.
 If not, you can run the MATLAB Runtime installer.
 To find its location, enter
   
